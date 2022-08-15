@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido ao final do MiniCamp da XPEducação(Processo Seletivo para Graduação). No último módulo o Professor nos ensinou a criar uma calculadora IMC. E eu implementei o projeto dando uma interface no front utilizando HTML e CSS (Front não é minha praia 😅 mas me esforcei🦾🤓).
 
+![home-app](https://github.com/AndrewRamosRJ/BMI-Calculator/blob/main/print_readme_github.png)
+
 Implementei a digitação obrigatória de informações como Peso e Altura. A não digitação dessas informações dá um alerta na tela informando que tais informações precisam ser digitadas, após isso ela marca os campos de input em vermelho sinalizando o local faltante.
 
 Meu maior desafio foi o botão de compartilhar na última página após a obtenção do Resultado da Calculadora. Desafio pois eu não tinha apendido ainda sobre este metódo e não achei vídeos no youtube para tal. Então após algumas pesquisas localizei essa solução em developer.mozilla.org. Dessa maneira criei um botão de compartilhamento através do Dispositivo utilizando o metódo Navigator.share(). Este metódo chama o mecanismo de compartilhamento nativo do dispositivo.
